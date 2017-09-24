@@ -1,0 +1,73 @@
+Subject:    CS 412 DATA_MINING (Fall 2017)
+Title:      Homework_1 Qestion_1
+Name:       Yayi Ning
+
+=======================================================================
+The following outputs preserved 3-decimal digit accuracy.
+=======================================================================
+
+=========================Question 1====================================
+Question 1 (a):
+Maximum mid-term score =  100
+Maximum mid-term score =  37 
+
+Question 1 (b):
+The first quartile =  68.0
+The median =  77.0
+The third quartile =  87.0 
+
+Question 1 (c):
+The mean =  76.715 
+
+
+Question 1 (d):
+The mode :  [83, 77]
+            
+
+Question 1 (e):
+Empirical Variance =  173.279
+
+
+
+=========================Question 2====================================
+Question 2 (a):
+Variance before normalization: 173.279
+Variance after normalization: 1.0 
+
+
+Question 2 (b):
+Score of 90 after normalization: 1.009 
+
+
+Question 2 (c):
+Person's correlation coefficient between midterm scores and final scores is:  0.544
+
+
+Question 2 (d):
+The covariance between midterm and final is: 78.254
+
+
+
+=========================Question 3====================================
+Question 3 (a):
+The Jaccard coefficient of Citadel's Maester Library (CML) and Castle Black's library(CBL) is:  0.322
+
+
+Question 3 (b):
+The minkowski distance of CML and CBL for h = 1 is:  6152.0
+The minkowski distance of CML and CBL for h = 2 is:  715.328
+The minkowski distance of CML and CBL for h = infinity is:  170.0 
+
+
+Question 3 (c):
+The cosine similarity of CML and CBL is : 0.841
+
+
+Question 3 (d):
+Kullbac-Leibler divergence between Citadel's Maester Library (CML) and Castle Black's library(CBL) is :  0.207
+
+
+
+
+
+Process finished with exit code 0
